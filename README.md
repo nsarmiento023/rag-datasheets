@@ -12,3 +12,13 @@
 3. Moteur de recherche vectorielle et génération guidée avec citations
 4. Évaluation quantitative (Hit Rate, MRR, latence)
 5. Interface Streamlit et CI/CD
+
+## Corpus technique
+        DOCUMENT                        |       TYPE
+1. 0709-arduino.pdf                     | Support de TP
+2. coursArduino.pdf                     | Cours
+3. Cours Electronique II.pdf            | Cours
+4. esp32.pdf                            | Support de TP
+5. IOC_C05_ESP32_automates-2p.pdf       | Cours
+6. Les_transistors.pdf                  | Cours
+7. Traitement du signal_etudiant.pdf    | Cours
